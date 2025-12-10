@@ -1,0 +1,6 @@
+git init
+git add gitcommands.txt
+git commit -m "gitcommandstextfileadded"
+git branch -M main
+git remote add origin https://github.com/Nikhil80068/10DEC.git
+git push -u origin main
